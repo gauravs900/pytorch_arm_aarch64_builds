@@ -1,2 +1,2 @@
-# pytorch_arm_aarch64_builds
+# pytorch arm aarch64 builds
 aarch64 wheels for pytorch
